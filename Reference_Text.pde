@@ -9,7 +9,6 @@ void draw() {
   stroke(random(255), random(255), random(255));
   float rainbow_size = random(200, 270);
   ellipse(150, 350, rainbow_size, rainbow_size);
-  
 
 fill(0);
 textAlign(190);
